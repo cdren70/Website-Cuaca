@@ -1,5 +1,5 @@
 # Weather Dashboard 🌦️
-Aplikasi dashboard cuaca interaktif dengan tampilan real-time dan prediksi 5 hari kedepan.
+Aplikasi dashboard cuaca interaktif dengan tampilan real-time dan prediksi 5 hari kedepan. <br>
 LINK TO ACCESS : https://weather-dashboard-dre.vercel.app/
 
 ![image](https://github.com/user-attachments/assets/88b91084-deca-4e3d-92d8-6c6258ca8751)
